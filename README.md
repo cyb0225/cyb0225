@@ -1,4 +1,4 @@
-## 👋 你好！我是yeebing！
-- 😄 Hdu 在校大学生一枚~
-- 👀 最近：正在疯狂学习后端项目，分布式存储～🧐
-- 🥳 梦想：进入大厂🤩
+## 👋 Hello！I am yeebing Chen！
+- 😄 Now I am studying at hdu~
+- 👀 And I am learning how to become a qualified backend engineer～🧐
+- 🥳 I will develop some interesting projects in my spare time.🤩
