@@ -4,11 +4,10 @@
 
 - 🔭 Software Engineering Sophomore at [HDU](https://www.hdu.edu.cn/main.htm).
 - 🌱 Backend Software Engineer of [HDUHELP](Backend Software Engineer)
-- 👯 Golang enthusiast 
-- 🤔 I’m looking for help with algorithms and data structure
+- 👯 Newbie gopher and Toy Engineer
+- 🤔 I'm looking for an internship.
 - 💬 Ask me about anything tech related
-- 📫 How to reach me: [Email](mailto:youremail@gmail.com) or [Twitter](https://twitter.com/yourtwitterhandle)
-- 😄 Pronouns: He/Him
+
 
 ### My technical stack
 
