@@ -30,8 +30,8 @@
 ### How to Reach Me
 - [Telegram Channel](https://t.me/yeebingchen)
 - Email: [cyb2103561941@gmail.com](mailto:youremail@gmail.com)
-- Email: [yeebingchen@gmail.com](mailto:youremail@gmail.com)
-- My Bolg:
+- Email: [yeebingchen@qq.com](mailto:youremail@gmail.com)
+- My Blogs:
   - https://cyb0225.github.io/
   - https://www.yeebing.cn
 
