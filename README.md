@@ -3,7 +3,7 @@
 ### About Me
 
 - 🔭 Software Engineering Sophomore at [HDU](https://www.hdu.edu.cn/main.htm).
-- 🌱 Backend Software Engineer of [HDUHELP](Backend Software Engineer)
+- 🌱 Backend Software Engineer of [HDUHELP](https://github.com/hduhelp)
 - 👯 Newbie gopher and Toy Engineer
 - 🤔 I'm looking for an internship.
 - 💬 Ask me about anything tech related
