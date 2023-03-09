@@ -9,6 +9,12 @@
 - 💬 Ask me about anything tech related
 
 
+
+<a href="https://github.com/cyb0225?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb0225&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
+
 ### Experiences
 - 第三届字节跳动后端青训营  (ByteDance 3rd Back-end Training Camp)
   - douyin server [douyin](https://github.com/cyb0225/douyin)
