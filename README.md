@@ -39,8 +39,6 @@
 - Email: [yeebingchen@qq.com](mailto:youremail@gmail.com)
 - My Blogs:
   - https://cyb0225.github.io/
-  - https://www.yeebing.cn
-
 
 ### Tools
 ![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)
