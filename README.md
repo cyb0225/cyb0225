@@ -9,29 +9,10 @@
 - 💬 Ask me about anything tech related
 
 
-
 <a href="https://github.com/cyb0225?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=cyb0225&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
-
-### Experiences
-- 第三届字节跳动后端青训营  (ByteDance 3rd Back-end Training Camp)
-  - douyin server [douyin](https://github.com/cyb0225/douyin)
-  - Implemented various interfaces, including video streaming, user following, commenting, login, etc.
-  - Technologies used: golang, MySQL(gorm), Redis(go-redis), oss, FFmpeg, framework(gin), JWT... 
-- 第四届字节跳动大数据青训营 (ByteDance 4th Big Data Training Camp)
-  - Distributed storage [gdfs](https://github.com/cyb0225/gdfs)
-  - Referenced the design of HDFS, Implemented directory tree, service registration, load balancing, and other designs
-  - Technologies used: grpc, zap, cobra + pflag + viper, 
-  - Achieved good results in the project acceptance.
-- 第五届字节跳动后端青训营 (ByteDance 5th Back-end Training Camp)
-  - tiktok server [h68u-tiktok-app-microservice](https://github.com/h68u/h68u-tiktok-app-microservice)
-  - The functionalities are similar to the 3rd training camp, with the addition of a private messaging module.
-  - Using microservice architecture（[go-zero](https://github.com/zeromicro/go-zero)), we implemented distributed tracing([jeager](https://www.jaegertracing.io/) + [opentelemetry](https://opentelemetry.io/)), service monitoring([prometheus](https://github.com/prometheus/prometheus)), and log collection([elasticsearch](https://www.elastic.co/cn/?ultron=B-Stack-Trials-APJ-Exact&gambit=Stack-Core&blade=adwords-s&hulk=paid&Device=c&thor=elasticsearch&gclid=CjwKCAiAmJGgBhAZEiwA1JZoltyLnCi1dMvN0v0q2sNoZdMqEwGAWAmaIAbkQqgvr0Jl5WosiMaPmRoCjy0QAvD_BwE)). 
-  - The system was deployed to a cloud platform using Docker, and we optimized some interfaces with caching after performing load testing([go-stress-testing](https://github.com/link1st/go-stress-testing))
-- KamaOJ
-  - I and [another engineer](https://github.com/youngyangyang04) are currently developing an online judge website that involves privacy. We will not set the repository to public in the short term, but  the service will launch soon. Please stay tuned.
 
 ### How to Reach Me
 - [Telegram Channel](https://t.me/yeebingchen)
